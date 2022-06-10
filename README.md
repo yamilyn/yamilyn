@@ -7,11 +7,15 @@
 
 
 ### Currently using
-<code><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" height="50"></code>
-<code><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" height="50"></code>
-<code><img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" height="50"></code>
-<code><img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" height="50"></code>
-<code><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" height="50"></code>
+<code><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="50"></code>
+<code><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height="50"></code>
+<code><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="50"></code>
+<code><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" height="50"></code>
+<code><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height="50"></code>
+<code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="50"></code>
+<code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="50"></code>
+<code><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="50"></code>
+<code><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="50"></code>
  
 
 ### Connect
