@@ -16,6 +16,9 @@
 <code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="50"></code>
 <code><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="50"></code>
 <code><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="50"></code>
+<code><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="50"></code>
+<code><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" height="50"></code>
+<code><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="50"></code>
  
 
 ### Connect
