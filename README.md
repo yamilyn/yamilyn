@@ -1,12 +1,14 @@
-## Hi there... <img src="/img/Hi.gif" width="29px">
+# Hi there, I'm Yamily <img src="/img/Hi.gif" width="29px">
 
-- 👩🏽‍💻 I’m **Yamily**, junior software engineer.
-- 👀 I recently completed the General Assembly Software engineering immersive to improve and learn new full stack development skills.
-- 💞️ I’m looking to collaborate on Github and you can find here the projects I might be currently working on, as well as some READMES of my past projects.
+## 👩🏽‍💻 Junior Software Engineer
 
 
+- 🎯  I recently completed the General Assembly Software engineering immersive to improve and learn new full stack development skills.
+- 👀  I’m looking to collaborate on Github and you can find here the projects I might be currently working on, as well as some READMES of my past projects.
 
-### Currently using
+
+
+### Skills & Tools
 
 <code><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="50" alt="HTML"></code>
 <code><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height="50" alt="CSS"></code>
@@ -24,6 +26,7 @@
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" alt="Git"></code>
 <code><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="50" alt="GitHub"></code>
 <code><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" height="50" alt="Mocha"></code>
+<code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="50" alt="Mocha"></code>
 
  
 
