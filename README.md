@@ -3,44 +3,50 @@
 ## 👩🏽‍💻 Junior Software Engineer
 
 
-- 🎯  I recently completed the General Assembly Software engineering immersive to improve and learn new full stack development skills.
-- 👀  I’m looking to collaborate on Github and you can find here the projects I might be currently working on, as well as some READMES of my past projects.
+I'm a junior software developer with a unique background in industries such as Business and Culinary Arts. My coding journey began 10 years ago when I enhanced my own blog with custom styling, sparking my passion for detail-oriented work and sharing the best of my knowledge. To further develop my self-taught skills and gain expertise in advanced full-stack development, I completed the General Assembly Software Engineering Immersive program. I'm committed to continuous growth and strive to learn every day in the ever-changing world of technology.
+
+* 🌍  I'm based in Cambridge, UK
+* 🖥️  See my portfolio at [yamilycodes.com](http://yamilycodes.com)
+* 🧠  I'm learning Vue.js and the world of machine learning
+* ⚡  I also have a popular cooking channel
 
 
 
 ### Skills & Tools
 
-<code><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="50" alt="HTML"></code>
-<code><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height="50" alt="CSS"></code>
-<code><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="50" alt="JavaScript"></code>
-<code><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" height="50" alt="jQuery"></code>
-<code><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height="50" alt="VS Code"></code>
-<code><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" height="50" alt="Express"></code>
-<code><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" height="50" alt="NodeJS"></code>
-<code><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" height="50" alt="MongoDB"></code>
-<code><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="50" alt="Heroku"></code>
-<code><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="50" alt="Python"></code>
-<code><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" height="50" alt="Django"></code>
-<code><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="50" alt="Postgresql"></code>
-<code><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" height="50" alt="ReactJS"></code>
-<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" alt="Git"></code>
-<code><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" height="50" alt="GitHub"></code>
-<code><img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" height="50" alt="Mocha"></code>
-<code><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="50" alt="Mocha"></code>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
  
 
-### Connect
+### Socials
 
-<a href="https://www.linkedin.com/in/yamilybenigni/" target="_blank">
-    <img src="/img/Linkedin.svg" alt="Linkedin" width="24px"/>
-</a>&nbsp;
-<a href="https://twitter.com/yamilysousa" target="_blank">
-    <img src="/img/Twitter.svg" alt="Twitter" width="26px"/>
-</a>&nbsp;
-<a href="https://www.instagram.com/yamilybenigni" target="_blank">
-    <img src="/img/Instagram.svg" alt="Instagram" width="24px"/>
-</a>
+<p align="left"> <a href="https://www.codepen.io/yamilybenigni" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/yamilyn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/yamilybenigni" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yamilybenigni" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yamilysousa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
+### Stats
+
+
+<a href="http://www.github.com/yamilyn"><img src="https://github-readme-stats.vercel.app/api?username=yamilyn&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yamilyn's GitHub stats" /></a>
+
+<a href="http://www.github.com/yamilyn"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yamilyn&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 <!---
