@@ -8,7 +8,7 @@ I'm a junior software developer with a unique background in industries such as B
 * 🌍  I'm based in Cambridge, UK
 * 🖥️  See my portfolio at [yamilycodes.com](http://yamilycodes.com)
 * 🧠  I'm learning Vue.js and being curious about machine learning
-* ⚡  I also have a popular cooking channel
+* ⚡  I also have a popular cooking channel 👩‍🍳
 
 
 
